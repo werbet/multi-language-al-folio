@@ -14,8 +14,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-sobre",
+    title: "sobre",
     section: "Menu de navegação",
     handler: () => {
       window.location.href = "/multi-language-al-folio/pt-br/";
