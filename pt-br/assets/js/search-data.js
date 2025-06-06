@@ -20,77 +20,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/multi-language-al-folio/pt-br/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "um tema simples para acadêmicos",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/multi-language-al-folio/pt-br/blog/";
-          },
-        },{id: "nav-publicações",
-          title: "publicações",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/multi-language-al-folio/pt-br/publications/";
-          },
-        },{id: "nav-projetos",
-          title: "projetos",
-          description: "Uma crescente coleção de seus projetos interessantes.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/multi-language-al-folio/pt-br/projects/";
-          },
-        },{id: "nav-repositórios",
-          title: "repositórios",
-          description: "Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/multi-language-al-folio/pt-br/repositories/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "cv",
           description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
           section: "Menu de navegação",
           handler: () => {
             window.location.href = "/multi-language-al-folio/pt-br/cv/";
           },
-        },{id: "nav-ensino",
-          title: "ensino",
-          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/multi-language-al-folio/pt-br/teaching/";
-          },
-        },{id: "nav-membros",
-          title: "membros",
-          description: "membros do grupo de pesquisa ou laboratório",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/multi-language-al-folio/pt-br/people/";
-          },
-        },{id: "dropdown-publicações",
-              title: "publicações",
-              description: "",
-              section: "Outras opções",
-              handler: () => {
-                window.location.href = "/multi-language-al-folio/pt-br/publications/";
-              },
-            },{id: "dropdown-projetos",
-              title: "projetos",
-              description: "",
-              section: "Outras opções",
-              handler: () => {
-                window.location.href = "/multi-language-al-folio/pt-br/projects/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Outras opções",
-              handler: () => {
-                window.location.href = "/multi-language-al-folio/pt-br/blog/";
-              },
-            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
