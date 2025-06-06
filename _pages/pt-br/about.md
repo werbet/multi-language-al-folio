@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Meu nome é **Eriko Werbet** e este é meu site pessoal. Trabalho há 28 anos na área de tecnologia; inicialmente como **engenheiro de software** e depois como **arquiteto de soluções** (pré-venda técnica e consultoria interna e externa). Também fui **professor universitário** por quase 10 anos e sou apaixonado por **Ciência, Tecnologia, Inovação e Educação**, que na minha opinião são os pilares para a construção de uma sociedade mais justa e igualitária.
+Meu nome é **Eriko Werbet** e este é meu site pessoal. Trabalho há 28 anos na área de tecnologia; inicialmente como **engenheiro de software** e depois como **arquiteto de soluções** (pré-venda técnica e consultoria interna e externa). Também fui **professor universitário** por 10 anos e sou apaixonado por **Ciência, Tecnologia, Inovação e Educação**, que na minha opinião são os pilares para a construção de uma sociedade mais justa e igualitária.
 
 Após quase 30 anos de dedicação profissional contínua, decidi abraçar um sabático estratégico em 2024. Esse período tem sido excelente para meu crescimento pessoal e desenvolvimento profissional. Tive a oportunidade de:
 
