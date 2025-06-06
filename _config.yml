@@ -41,7 +41,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -190,14 +190,29 @@ exclude:
   - UPGRADING.md
   - vendor
   - _news/announcement_*.md
-  - _pages/blog.md
+  - _pages/en-us/blog.md
+  - _pages/pt-br/blog.md
   - _pages/publications.md
+  - _pages/en-us/publications.md
+  - _pages/pt-br/publications.md
   - _pages/projects.md
+  - _pages/en-us/projects.md
+  - _pages/pt-br/projects.md
   - _pages/repositories.md
+  - _pages/en-us/repositories.md
+  - _pages/pt-br/repositories.md
   - _pages/teaching.md
+  - _pages/en-us/teaching.md
+  - _pages/pt-br/teaching.md
   - _pages/books.md
+  - _pages/en-us/books.md
+  - _pages/pt-br/books.md
   - _pages/profiles.md
+  - _pages/en-us/profiles.md
+  - _pages/pt-br/profiles.md
   - _pages/dropdown.md
+  - _pages/en-us/dropdown.md
+  - _pages/pt-br/dropdown.md
   - _posts/
   - assets/jupyter/blog.ipynb
 keep_files:
