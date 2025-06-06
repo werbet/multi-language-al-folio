@@ -35,4 +35,4 @@ After nearly 30 years of continuous professional dedication, I decided to take a
 - Independently study **generative AI**, since I'm very interested in its applications.
 - Begin an **MBA in Data Science and Analytics** at the University of São Paulo (USP), deepening my expertise in Artificial Intelligence and data-driven innovation.
 
-It's 2025, and I'm looking for a new job — something that will provide as much motivation and fulfillment as my previous roles.
+It's 2025, and I'm looking for a new job — something that will provide me as much motivation and fulfillment as my previous roles.
