@@ -20,9 +20,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/multi-language-al-folio/pt-br/";
     },
-  },{id: "nav-cv",
-          title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
+  },{id: "nav-curriculum-vitae",
+          title: "curriculum vitae",
+          description: "Este é meu currículo detalhado gerado a partir de um JSON seguindo o schema &#39;Resume JSON&#39;, que é um padrão para geração de currículos. Caso você queira uma versão resumida, tenho uma versão em PDF gerada via Latex; favor clicar no botão &quot;PDF&quot; acima.",
           section: "Menu de navegação",
           handler: () => {
             window.location.href = "/multi-language-al-folio/pt-br/cv/";
