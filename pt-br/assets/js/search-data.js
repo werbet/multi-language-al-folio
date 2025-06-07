@@ -1,10 +1,10 @@
 
 const currentUrl = window.location.href;
-const siteUrl = "https://george-gca.github.io"; 
-let updatedUrl = currentUrl.replace("https://george-gca.github.io/multi-language-al-folio", "");
+const siteUrl = "https://werbet.github.io"; 
+let updatedUrl = currentUrl.replace("https://werbet.github.io", "");
 if (currentUrl.length == updatedUrl.length && currentUrl.startsWith("http://127.0.0.1")) {
   const otherSiteUrl = siteUrl.replace("localhost", "127.0.0.1");
-  updatedUrl = currentUrl.replace(otherSiteUrl + "/multi-language-al-folio", "");
+  updatedUrl = currentUrl.replace(otherSiteUrl + "", "");
 }
 if ("pt-br".length > 0) {
   updatedUrl = updatedUrl.replace("/pt-br", "");
@@ -18,14 +18,14 @@ ninja.data = [{
     title: "sobre",
     section: "Menu de navegação",
     handler: () => {
-      window.location.href = "/multi-language-al-folio/pt-br/";
+      window.location.href = "/pt-br/";
     },
   },{id: "nav-curriculum-vitae",
           title: "curriculum vitae",
           description: "Este é meu currículo detalhado gerado a partir de um JSON seguindo o schema &#39;Resume JSON&#39;, que é um padrão para geração de currículos. Caso você queira uma versão resumida, tenho uma versão em PDF gerada via Latex; favor clicar no botão &quot;PDF&quot; acima.",
           section: "Menu de navegação",
           handler: () => {
-            window.location.href = "/multi-language-al-folio/pt-br/cv/";
+            window.location.href = "/pt-br/cv/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -53,7 +53,7 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/books/pt-br/the_godfather/";
+              window.location.href = "/pt-br/books/pt-br/the_godfather/";
             },},{id: "news-um-anúncio-simples-em-uma-linha",
           title: 'Um anúncio simples em uma linha.',
           description: "",
@@ -61,7 +61,7 @@ ninja.data = [{
           title: 'Um anúncio longo com detalhes',
           description: "",
           section: "Novidades",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/news/pt-br/announcement_2/";
+              window.location.href = "/pt-br/news/pt-br/announcement_2/";
             },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
           title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -69,47 +69,47 @@ ninja.data = [{
           title: 'project 7',
           description: "with background image",
           section: "Projetos",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/projects/7_project/";
+              window.location.href = "/pt-br/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projetos",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/projects/8_project/";
+              window.location.href = "/pt-br/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projetos",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/projects/9_project/";
+              window.location.href = "/pt-br/projects/9_project/";
             },},{id: "projects-projeto-1",
           title: 'projeto 1',
           description: "com imagem de fundo",
           section: "Projetos",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/projects/pt-br/1_project/";
+              window.location.href = "/pt-br/projects/pt-br/1_project/";
             },},{id: "projects-projeto-2",
           title: 'projeto 2',
           description: "um projeto com imagem de fundo e comentários do giscus",
           section: "Projetos",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/projects/pt-br/2_project/";
+              window.location.href = "/pt-br/projects/pt-br/2_project/";
             },},{id: "projects-projeto-3-com-um-nome-bem-longo",
           title: 'projeto 3 com um nome bem longo',
           description: "um projeto que redireciona pra outro website",
           section: "Projetos",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/projects/pt-br/3_project/";
+              window.location.href = "/pt-br/projects/pt-br/3_project/";
             },},{id: "projects-projeto-4",
           title: 'projeto 4',
           description: "outro sem imagem",
           section: "Projetos",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/projects/pt-br/4_project/";
+              window.location.href = "/pt-br/projects/pt-br/4_project/";
             },},{id: "projects-projeto-5",
           title: 'projeto 5',
           description: "um projeto com imagem de fundo",
           section: "Projetos",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/projects/pt-br/5_project/";
+              window.location.href = "/pt-br/projects/pt-br/5_project/";
             },},{id: "projects-projeto-6",
           title: 'projeto 6',
           description: "um projeto sem imagem",
           section: "Projetos",handler: () => {
-              window.location.href = "/multi-language-al-folio/pt-br/projects/pt-br/6_project/";
+              window.location.href = "/pt-br/projects/pt-br/6_project/";
             },},{
         id: 'social-email',
         title: 'Enviar um email',
@@ -129,7 +129,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Redes sociais',
         handler: () => {
-          window.open("/multi-language-al-folio/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -150,7 +150,7 @@ ninja.data = [{
           title: 'en-us',
           section: 'Idiomas',
           handler: () => {
-            window.location.href = "/multi-language-al-folio" + updatedUrl;
+            window.location.href = "" + updatedUrl;
           },
         },{
       id: 'light-theme',
