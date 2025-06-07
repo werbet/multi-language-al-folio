@@ -1,200 +1,307 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://george-gca.github.io/multi-language-al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Eriko Werbet",
+    "email": "werbet@gmail.com",
+    "phone": "Contained in the PDF version",
+    "url": "https://www.linkedin.com/in/eriko",
+    "summary": "Solutions Architect and Software Engineer fluent in both Brazilian Portuguese and English, with over 20 years of experience in software architecture design, technical pre-sales, and development of innovative solutions in IoT, Big Data, and Artificial Intelligence. Technical leader with a track record of mentoring teams, leading strategic technology initiatives, and contributing to the acquisition of more than R$50 million in his last role through technical proposals and public bids. Currently pursuing an MBA in Data Science and Analytics, seeking to apply data analysis, machine learning, and generative AI to accelerate digital transformation and support data-driven strategic decisions.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "city": "Fortaleza",
+      "region": "Ceará",
+      "countryCode": "BR"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Atlântico Institute",
+      "position": "Solutions Architect Consultant",
+      "startDate": "2020-01",
+      "endDate": "2024-12",
+      "summary": "In this position, I served as Lead Solutions Architect for the institution and led a group of 6 architects. I worked supporting the Sales, Innovation, and Operations departments.",
+      "highlights": [
+        "Designed 96 technical solutions for prospective clients and ongoing projects.",
+        "Created and presented over 100 technical presentations demonstrating the added value of these solutions to both national and international customers.",
+        "Developed technical proposals for customer projects, 33 public bids, and consulted for 5 startups in the institutional startup acceleration program; contributing to the acquisition of more than 50 million brazilian reais over 4 years.",
+        "Helped structure the institutional solutions architect group (technical pre-sales group), where I led and mentored a team of 6 architects.",
+        "Gathered technical and business requirements for 192 business opportunities and defined implementation plans for 96 projects, including their risks, assumptions, constraints, effort estimation, schedules, team composition, and required hardware and software.",
+        "Supported the Innovation department initiatives through technological prospection, funding call submissions, and participation in Proof of Concepts (PoCs).",
+        "Contributed to institutional strategic planning, including the accreditation strategy with EMBRAPII (Brazilian Company for Industrial Research and Innovation).",
+        "Developed technical content for over 20 marketing materials and defended 7 projects before national funding agencies."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Atlântico Institute",
+      "position": "Senior Software Engineer",
+      "startDate": "2006-01",
+      "endDate": "2019-12",
+      "summary": "In this position I worked for 13 years as technical leader, solutions architect, and software engineer. I worked on projects for corporate customers from several company portfolios, and R&D projects funded by national and international research and innovation agencies.",
+      "highlights": [
+        "Technically led 9 R&D projects with teams of up to 15 developers for corporate customers such as Hewlett-Packard (HP) Brazil and HP Palo Alto USA, Samsung, LG, and AOC; and public institutions like RNP (Brazilian Research and Education Network) and the European Union Commission.",
+        "Implemented and delivered 12 software solutions; from C/C++ firmware for mobile devices, through TCP/IP network controllers in Java, backends for corporate Web applications in private clouds, to IoT (Internet of Things) platforms for healthcare applications.",
+        "Filled in for project managers on several occasions. Managed backlogs and supported ongoing tasks, keeping the project on schedule.",
+        "Served as a technical reference at the institutional level, offering solutions and guidance in solving issues in my projects as well as in projects from other institutional portfolios.",
+        "Designed project solution architectures, from UML diagrams for functionalities to negotiating technical details with customers, including proactively identifying and mitigating technical risks.",
+        "Prospected and selected technologies, tools, and techniques for implementation — from programming languages to frameworks and development tools.",
+        "Implemented Proofs of Concept (PoCs) to validate designed solutions and evaluated technologies such as frameworks for API gateways (Express Gateway), interprocess communication middleware (RabbitMQ), and real-time streaming platforms (Apache Kafka).",
+        "Supported the Sales team in more than 200 technical proposals and public bids; from understanding the problem in customer meetings to solution design and estimating work effort and team size."
+      ]
+    },
+    {
+      "name": "University of Fortaleza",
+      "position": "Adjunct Professor",
+      "startDate": "2011-01",
+      "endDate": "2020-12",
+      "summary": "Worked as a professor and advisor for undergraduate students in the following programs: Computer Science, Computer Engineering, Electrical Engineering, Electronics and Automation Engineering, as well as Systems Analysis and Development.Used a hands-on approach to teach the following classes: Databases 101, Databases Implementation, Operating Systems, Algorithms, Data Structures, Computer Programming (C/C++, Java and Python), and Mathematical Logic (Math and Prolog)."
+    },
+    {
+      "name": "University of Fortaleza",
+      "position": "DTI Level 1 Fellow - Software Engineer",
+      "startDate": "2004-01",
+      "endDate": "2006-12",
+      "summary": "Worked as a DTI-1 fellow (Technological and Industrial Development at CNPq) on a Siemens Brazil R&D project. I was involved in developing a device driver for an Audible Response Unit (ARU) hardware board. In addition to the device driver, I also implemented the board's firmware debugging tool, communication API, and a demonstration application in C/C++."
+    },
+    {
+      "name": "University of Fortaleza",
+      "position": "CNPq Scholarship - Software Developer",
+      "startDate": "2002-01",
+      "endDate": "2003-12",
+      "summary": "Worked on an R&D project focused on implementing a new storage architecture based on an innovative database paradigm. In this project, I implemented the platform, its algorithms, and conducted experiments in C/C++ and Java."
+    },
+    {
+      "name": "University of Fortaleza",
+      "position": "CNPq Scholarship - Researcher",
+      "startDate": "2000-01",
+      "endDate": "2002-12",
+      "summary": "Worked on an R&D project focusing on Risk, Uncertainty, and Complexity Analysis in Decision Making for Water Resources and the Environment, in partnership with FUNCEME (Ceara Meteorology Foundation). In this project, I employed linear optimization, neural networks, and genetic algorithms, with implementations in C/C++."
+    },
+    {
+      "name": "Complus Information Technology Ltda.",
+      "position": "Intern - Software Developer",
+      "startDate": "1997-01",
+      "endDate": "1999-12",
+      "summary": "I interned at a finance software house, where I was responsible for developing new features and customizing solutions already deployed to customers. I programmed in Clipper and worked with DBASE and FoxPro databases."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of São Paulo",
+      "studyType": "MBA",
+      "area": "Data Science and Analytics",
+      "startDate": "2025",
+      "endDate": "2026",
+      "courses": ["Capstone project on Generative AI"]
+    },
+    {
+      "institution": "University of Fortaleza",
+      "studyType": "Doctorate",
+      "area": "Applied Computer Science",
+      "startDate": "2011",
+      "endDate": "2015",
+      "courses": ["Research on Operating Systems", "All coursework completed, Thesis unfished"]
+    },
+    {
+      "institution": "University of Fortaleza",
+      "studyType": "Master's",
+      "area": "Applied Computer Science",
+      "startDate": "2005",
+      "endDate": "2008",
+      "courses": ["Dissertation on Databases"]
+    },
+    {
+      "institution": "University of Fortaleza",
+      "studyType": "Bachelor's",
+      "area": "Computer Science",
+      "startDate": "1999",
+      "endDate": "2004",
+      "courses": ["Capstone project on Databases"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Doctoral Scholarship",
+      "date": "2011",
+      "awarder": "Atlântico Institute"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Master’s Scholarship",
+      "date": "2005",
+      "awarder": "FUNCAP (Ceará State Foundation for Scientific Research)"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Industrial and Technological Level I Federal Grant",
+      "date": "2004",
+      "awarder": "CNPq (National Council for Scientific and Technological Development)"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "Graduated with Honors",
+      "date": "2004",
+      "awarder": "University of Fortaleza"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Research Initiation Scholarship",
+      "date": "2000",
+      "awarder": "CNPq (National Council for Scientific and Technological Development)"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Solutions Architecture",
+      "level": "Experienced",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Architecture patterns",
+        "Reference architectures",
+        "Design patterns",
+        "UML",
+        "Component integration",
+        "Cloud native design and cloud provider services",
+        "Database modeling, SQL, NoSQL",
+        "Big Data technologies, and data analysis platforms",
+        "AI and Machine Learning concepts, frameworks and applications",
+        "Development of corporate technical proposals and submission for public bids"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Experienced",
+      "keywords": [
+        "Data structures and algorithms",
+        "Visual Studio Code, Python, Ruby, Java, JavaScript, and C/C++",
+        "Backend frameworks and technologies for APIs and services",
+        "Continuous Integration and Delivery (CI/CD), Git, Docker, development cycle automation",
+        "Cloud deployment (Amazon AWS)",
+        "POSIX operating systems (Linux and Unix)"
+      ]
+    },
+    {
+      "name": "Data Science and AI",
+      "level": "Pursuing MBA in the field",
+      "keywords": [
+        "Statistics, linear algebra, and calculus",
+        "Power BI, Python, pandas, numpy, scipy, scikit-learn, matplotlib/seaborn",
+        "Linear regression, probability distributions, sampling and dimensionality reduction",
+        "Machine learning models such as logistic regression, Naive Bayes, decision trees, random forests, KNN, and K-means.",
+        "Generative AI applications, LLMs and their APIs. Vibe coding, prompt engineering, and agentic AI"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "keywords": [
+        "Technically led a team of 6 solutions architects, over 200 business initiatives, and 9 development projects with up to 15 professionals"
+      ]
+    },
+    {
+      "name": "Communication",
+      "keywords": [
+        "Fluent in English, gathered requirements from over 50 customers, designed features with national and international stakeholders",
+        "published papers",
+        "defended projects before funding agencies in Brazil and abroad",
+        "Taught at university level for 10 years"
+      ]
+    },
+    {
+      "name": "Collaboration and Proactivity",
+      "keywords": [
+        "Proactively collaborated with the Sales, Innovation, Operations, and Marketing departments",
+        "Provided technical consulting for projects and startups from multiple portfolios"
+      ]
+    },
+    {
+      "name": "Critical Thinking and Problem Solving",
+      "keywords": [
+        "Evaluated and reviewed 192 business initiatives, from RFPs to public bids",
+        "Implemented tools to increase my efficiency and that of the teams I worked with",
+        "Identified and resolved issues in projects, technical solutions, sales proposals, effort estimates, etc."
       ]
     }
   ],
-  "languages": [
+  "publications": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "An agent program in an IoT system to recommend activities to minimize childhood obesity problems.",
+      "publisher": "Proceedings of the 35th ACM/SIGAPP Symposium on Applied Computing (SAC 20)",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1145/3341105.3373977",
+      "summary": "An agent program in an lol system to recommend activities to minimize childhood obesity problems."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "An Agent Program in an IoT System to Recommend Plans of Activities to Minimize Childhood Obesity.",
+      "publisher": "2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1109/COMPSAC48688.2020.0-181",
+      "summary": "An Agent Program in an IoT System to Recommend Plans of Activities to Minimize Childhood Obesity."
+    },
+    {
+      "name": "Smart Algorithm for Unhealthy Behavior Detection in Health Parameters.",
+      "publisher": "2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1109/COMPSAC48688.2020.0-183",
+      "summary": "Smart Algorithm for Unhealthy Behavior Detection in Health Parameters."
+    },
+    {
+      "name": "Computerized decision support and machine learning applications for the prevention and treatment of childhood obesity: A systematic review of the literature.",
+      "publisher": "Artificial Intelligence in Medicine",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1016/j.artmed.2020.101844",
+      "summary": "Computerized decision support and machine learning applications for the prevention and treatment of childhood obesity: A systematic review of the literature."
     }
   ],
-  "interests": [
+  "projects": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "name": "Atlantico Institute EMBRAPII Business Unit",
+      "description": "I worked on the technical conception and contributed substantially to Instituto Atlantico's successful accreditation bid strategy as an EMBRAPII (Brazilian Company for Industrial Research and Innovation) unit focused on Data Science and Artificial Intelligence; establishing a new revenue channel.",
+      "highlights": [
+        "Conducted comprehensive research on existing and competing EMBRAPII units, underpinning the unique value proposition of the new unit.",
+        "Developed the technical justification for the unit’s expertise, using projects developed, and wrote the majority of critical submission documents.",
+        "Worked in the entire submission and defense process, culminating in the creation of the EMBRAPII unit for 'Intelligent Manufacturing'.",
+        "Played a key role in the initial structuring of this new business unit and trained teams from several departments for its operations."
+      ]
+    },
+    {
+      "name": "Big Data Platform Solution Design and Architecture for a Global Technology Corporation",
+      "description": "Led the technical design and successful pre-sale of a R$ 17,000,000.00 (BRL) Big Data platform for a global technology corporation in the consumer electronics market. This solution was designed to ingest, pre-process, and analyze datasets from various sources, such as industrial machinery, APIs, databases, sensors, and manufacturing software.",
+      "highlights": [
+        "Designed all technical aspects of the Big Data platform, including data ingestion pipelines, storage solutions, processing frameworks, and analytical components to provide insights to the manufacturing operations",
+        "Architected the complete solution for deployment on AWS cloud infrastructure, leveraging scalable and cost-effective services.",
+        "Estimated team size and identified all technical resources needed for project execution, including specialized hardware, software, and personnel.",
+        "Successfully presented the technical solution in English to senior management and engineering teams located in Germany and the United States, securing project approval and its sale"
+      ]
+    },
+    {
+      "name": "Atlantico Institute's First PPI SOFTEX Project",
+      "description": "SOFTEX and PPIs (Priority Programs and Projects of National Interest) are initiatives for fostering the ICT industry in Brazil, funded by the Ministry of Science, Technology, and Innovation (MCTI).I was responsible for conceiving and structuring technological training programs under the SOFTEX PPI. This project, Atlantico's first in this model, established a new channel for funding.",
+      "highlights": [
+        "Led the technical conception of the training program, including market research, teaching models, and target audience.",
+        "Proposed and specified 6 programs, with 4 being ultimately approved (Data Science, Cognitive Computing, User Experience, and Full Stack Development), based on market, customer, and institutional needs.",
+        "Structured the complete teaching content of the programs, split into beginner, intermediate, and advanced modules.",
+        "Designed each program to have 3 phases (leveling, technological training, and intership) and implemented a hybrid online teaching methodology with skill-based projects.",
+        "Defined performance KPIs and quantifiable metrics for the programs, aligned with the Brazilian Government goals and the institutional strategy."
+      ]
+    },
+    {
+      "name": "High-Performance Cloud-Based Thin-Client Virtualization for Hewlett-Packard (HP)",
+      "description": "This project involved the design and architecture of a cloud-based Thin-Client solution for HP. The goal was to enable users to access powerful virtual workstations with GPUs securely and efficiently from their existing laptops and PCs, with a crucial focus on delivering low latency and high stability.",
+      "highlights": [
+        "Architected a cloud-based Thin-Client solution, meeting the need for scalable and secure access to high-performance virtual workstations, including GPUs.",
+        "Designed a robust data streaming backbone using Apache Kafka to ensure efficient and scalable data flows, crucial for keeping low latency.",
+        "Integrated advanced streaming and remote desktop protocols to deliver a responsive, immersive, and highly stable user experience for access from laptops and desktop PCs.",
+        "Created the technical presentation and helped present it to key HP stakeholders in Boise, USA, demonstrating its technical feasability and business value."
+      ]
+    },
+    {
+      "name": "H2020 OCARIoT Project between the European Union and Brazil: Advances in IoT, AI, and Personalized Health Interventions for Childhood Obesity",
+      "description": "The OCARIoT project, an international initiative funded by the European Union and Brazil's RNP, aimed to combat childhood obesity through an innovative, technology-driven approach. It developed a personalized coaching solution based on IoT, using Data Science and AI to promote healthy eating habits and increase physical activity among children. This was a comprehensive R&D effort involving a diverse consortium of 12 institutions from Europe and Brazil.",
+      "highlights": [
+        "Worked with several Brazilian and European institutions in the technical project conception before its approval, and contributed to resource estimation. Also wrote the documents that secured its funding for joint submission to both the European Union and Brazilian Government.",
+        "Technically led and conducted reviews of generated artifacts. Implemented Proofs of Concept (PoC) to validate designed solutions and prospected technologies.",
+        "Designed the solution architecture and assisted in implementing a scalable and open IoT platform, integrating various sensors for comprehensive health data collection (e.g., anthropometry, activity, sleep, diet, environmental factors)",
+        "Contributed to the development of behavioral and health analysis algorithms. Including time series analysis algorithm and machine learning algorithms (Recommendations System) for diagnosis, prognosis, and personalized interventions for childhood obesity.",
+        "Assisted in designing the project's pilot phase, validating the solution's effectiveness and usability in real-world environments.",
+        "Presented and defended project progress and technical innovations to high-level stakeholders from the European Union and Brazil in Madrid (Spain), Brussels (Belgium) and Campinas (Brazil)."
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "reference": "Professional references available upon request."
     }
   ]
 }
